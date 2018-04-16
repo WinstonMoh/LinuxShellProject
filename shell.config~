@@ -1,5 +1,0 @@
-history = 4
-prompt = "pi@raspberrypi:~ $"
-home = "/home/pi/cs460"
-pwd = "/home/pi/Project2"
-PATH = "/bin:/usr/bin"
