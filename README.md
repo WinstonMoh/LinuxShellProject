@@ -20,3 +20,6 @@ cd and ls commands.
 
 ### Search paths
 whereis commands
+
+## Execution
+Run shell.cpp file in any C++ compiler of your choice or in terminal.
